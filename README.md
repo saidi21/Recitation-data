@@ -13,7 +13,7 @@ quran-data/
 ├── yasser_dossary/
 │   ├── surah.json      # Surah metadata
 │   └── segments.json   # Audio segment timestamps
-├── mishary_alafasy/
+├── saad_ghamdi/
 │   ├── surah.json
 │   └── segments.json
 └── ...
