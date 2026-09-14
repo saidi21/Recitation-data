@@ -9,7 +9,7 @@ The data is organized by reciter name. Each reciter folder contains Surah metada
 and audio segment timestamps.
 
 ~~~text
-quran-data/
+Recitation-data/
 ├── yasser_dossary/
 │   ├── surah.json      # Surah metadata
 │   └── segments.json   # Audio segment timestamps
