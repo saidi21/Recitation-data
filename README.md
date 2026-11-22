@@ -21,10 +21,14 @@ Recitation-data/
 
 ## 📚 Data Source
 
-The Quranic data and audio segment timings in this repository are sourced from  
-**QUL (Quranic Universal Library)** by **Tarteel.ai**.
+The Quranic data and audio segment timings in this repository are sourced from:
 
-🔗 https://qul.tarteel.ai/resources/recitation
+- **QUL (Quranic Universal Library)** by **Tarteel.ai**  
+  🔗 https://qul.tarteel.ai/resources/recitation
+- **MP3Quran.net** (`abdullah_ali_jaber`, `nasser_al_qatami`, `maher_muaiqly`)  
+  🔗 https://www.mp3quran.net
+- **Quran Foundation (Quran.com API v4)** (`saud_shuraim` segment timings)  
+  🔗 https://quran.com
 
 ## ⚖️ License & Attribution
 
@@ -36,6 +40,6 @@ the **MIT License**.
 ### Data License
 
 The Quranic JSON data files (`surah.json`, `segments.json`) are **not original content**.  
-They are sourced from **Tarteel.ai**
+They are sourced from **QUL (Tarteel.ai)**, **MP3Quran.net**, and **Quran Foundation (Quran.com)**.
 
-> Data sourced from QUL (Quranic Universal Library) by Tarteel.ai
+> Data sourced from QUL (Quranic Universal Library) by Tarteel.ai, MP3Quran.net (`abdullah_ali_jaber`, `nasser_al_qatami`, `maher_muaiqly`), and Quran Foundation (Quran.com) (`saud_shuraim` segments).
