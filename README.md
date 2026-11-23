@@ -25,9 +25,9 @@ The Quranic data and audio segment timings in this repository are sourced from:
 
 - **QUL (Quranic Universal Library)** by **Tarteel.ai**  
   🔗 https://qul.tarteel.ai/resources/recitation
-- **MP3Quran.net** (`abdullah_ali_jaber`, `nasser_al_qatami`, `maher_muaiqly`, `saud_shuraim` audio)  
+- **MP3Quran.net** (`abdullah_ali_jaber`, `nasser_al_qatami`, `maher_muaiqly`, `saud_shuraim`)  
   🔗 https://www.mp3quran.net
-- **Quran Foundation (Quran.com API v4)** (`saud_shuraim` segment timings)  
+- **Quran Foundation (Quran.com API v4)** (`saud_shuraim` fallback timings for Surahs 9, 12, 65, 91)  
   🔗 https://quran.com
 
 ## ⚖️ License & Attribution
